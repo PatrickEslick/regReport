@@ -1,2 +1,3 @@
 # regReport
-Old name of ModelArchiveSummary
+This repository was renamed [ModelArchiveSummary](https://patrickeslick.github.io/ModelArchiveSummary/)
+
